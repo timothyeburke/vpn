@@ -1,4 +1,3 @@
 provider "aws" {
-  region  = local.region
-  profile = local.profile
+  region = "us-east-2"
 }
